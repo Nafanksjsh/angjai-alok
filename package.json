@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "napan",
     "version": "3.1.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "Gabut Banh",
     "main": "index.js",
     "type": "module",
     "directories": {
