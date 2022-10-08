@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/inizenscuy' // ig
-global.sgh = 'https://github.com/RaaaGH/' // github
-global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
+global.sig = 'https://instagram.com/nafanfalakhil' // ig
+global.sgh = 'https://github.com/Nafanksjsh/' // github
+global.sgc = 'https://chat.whatsapp.com/B8Hqb0tMGTqI4X121tjRN8' // group whatsapp
+global.sdc = '-'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sfb = 'https://www.facebook.com/nafanfalakhil' // facebook
+global.syt = 'https://m.youtube.com/channel/UCk1lS_exFvY1s7lpg12Vscg/featured' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/'
+global.pdana = '628316296447' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '6285791283043' //telkomsel
+global.ppulsa2 = '6283162964447' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorbot = '6283162964447'
+global.nomorown = '6285791283043'
+global.namebot = 'menggabutkan bot'
+global.nameown = 'ナファン'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'RaaaGH' // nama github lu
-global.linkgithub = 'github.com/RaaaGH' // tarok link github lu
+global.namagithub = 'Nafanksjsh' // nama github lu
+global.linkgithub = 'github.com/Nafanksjsh' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,15 +85,15 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6285791283043', 'Zenss', true], 
+  ['-', 'Alok', true],
+  ['-', 'Angjai', true],
+  ['-', 'Dahla', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['625791283043'] // Want some help?
+global.prems = ['625791283043'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
