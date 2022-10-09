@@ -58,7 +58,7 @@ global.sfb = 'https://www.facebook.com/nafanfalakhil' // facebook
 global.syt = 'https://m.youtube.com/channel/UCk1lS_exFvY1s7lpg12Vscg/featured' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '628316296447' //dana
+global.pdana = '6283162964447' //dana
 global.povo = '-' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
